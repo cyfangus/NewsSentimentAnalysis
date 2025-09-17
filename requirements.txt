@@ -1,0 +1,6 @@
+requests
+bertopic
+python-dotenv
+umap-learn
+torch
+transformers

@@ -1,0 +1,1 @@
+This is the repository stores my code running sentiment analysis on news article about the UK Labour Party from 2024 July to 2025 June using Guardian API, and Llama3.2 for sentiment classfication. The reuslts were plotted to show changes of sentiment during the period.
